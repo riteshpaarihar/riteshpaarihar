@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritesh.rs199@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-singh-2388a0252)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7869386543)
-<---[![Webpage](https://img.shields.io/badge/My_Webpage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website.com)  -->
+<!---[![Webpage](https://img.shields.io/badge/My_Webpage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website.com)  -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your_profile)
 
 
 ---
-<---
+<!---
 ### My Stats:
 
 | **Total Contributions** | **Current Streak** | **Longest Streak** |
