@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi There 👋  
+
 ## My Name is Ritesh Singh 
 ### I'm a FULL Stack Developer. 🚀
 
@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 ### My Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,14 +38,12 @@ Here are some ideas to get you started:
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
 ### Currently Learning
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
@@ -55,13 +51,15 @@ Here are some ideas to get you started:
 ### Social Links
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your_number)
-[![Webpage](https://img.shields.io/badge/My_Webpage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritesh.rs199@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-singh-2388a0252)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7869386543)
+<---[![Webpage](https://img.shields.io/badge/My_Webpage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website.com)  -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your_profile)
+
 
 ---
-
+<---
 ### My Stats:
 
 | **Total Contributions** | **Current Streak** | **Longest Streak** |
@@ -70,6 +68,6 @@ Here are some ideas to get you started:
 | Aug 25, 2019 - Present  | Sep 29 - Oct 6     | Feb 19, 2020 - Mar 15, 2020 |
 
 ---
-
+--->
 ⭐️ **Thank you for visiting!**
 
